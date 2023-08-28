@@ -9,7 +9,7 @@
 RootModule = 'Wsl.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.1.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -113,6 +113,8 @@ PrivateData = @{
 
         # ReleaseNotes of this module
         # ReleaseNotes = ''
+
+        Prerelease = 'beta.1'
 
     } # End of PSData hashtable
 
